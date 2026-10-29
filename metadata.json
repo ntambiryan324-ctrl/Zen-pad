@@ -1,0 +1,6 @@
+{
+  "name": "ZenPad Touch",
+  "description": "A minimalist touch-first planner, scratchpad, and note-taking PWA designed for tablets and mobile devices with offline support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
