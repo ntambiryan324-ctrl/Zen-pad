@@ -1,0 +1,6 @@
+{
+  "appId": "com.zenpad.touch",
+  "appName": "ZenPad Touch",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
